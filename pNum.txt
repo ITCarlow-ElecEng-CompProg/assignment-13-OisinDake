@@ -1,0 +1,9 @@
+Check if a Number is Prime
+
+
+
+2 is a Prime number.
+
+3 is a Prime number.
+
+5 is a Prime number.
